@@ -11,7 +11,7 @@
 * リポジトリをクローン
 
 ```
-$ git clone -b develop https://github.com/hasujapan/python3-docker.git
+$ git clone https://github.com/hasujapan/python3-docker.git
 $ cd python3-docker
 ```
 
